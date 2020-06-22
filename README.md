@@ -1,4 +1,6 @@
+<div style="text-align:center"> 
 <img src="https://www.arduino.cc/en/uploads/Guide/ArduinoEducation_Logo-02.svg" alt="logo arduino"/>
+</div>
 # 8x8 Led Matrix ARDUINO
 
 ## Resources
@@ -20,6 +22,10 @@ Here there is a led matrix editor:
 And the source code of led matrix editor:
 - [https://github.com/xantorohara/led-matrix-editor](https://github.com/xantorohara/led-matrix-editor)
 
+## Some proyects
+1. A simple example that [show up some symbols](./LEDemo_1/LEDemo_1.ino)
+2. A simple example that [show up numbers](./LEDemo_2/LEDemo_2.ino)
+3. A example about Sign [Light Bright](./LED_matrix_letrero/LED_matrix_letrero.ino)
 
 
 
